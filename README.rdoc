@@ -24,6 +24,9 @@ M&C is a Redmine Plugin used as a chart tool to monitoring issues' project
 * Column Bar charts issues by Assignee
 * Column Bar chart with issues by Status of each Assignee
 
+=== Statistics for the general Redmine installation
+* Ratio of new to closed issues
+
 == How to install 
 
 === Requirements
